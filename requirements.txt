@@ -1,0 +1,8 @@
+chromadb
+langchain
+langchain-community
+pypdf
+openai
+tiktoken
+langchain-openai
+rank_bm25
