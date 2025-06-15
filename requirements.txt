@@ -7,3 +7,4 @@ tiktoken
 langchain-openai
 rank_bm25
 cohere
+flashrank
